@@ -1,0 +1,38 @@
+body{margin-top: auto;padding:0; }
+.cotainer{margin:auto;    width: 1200px;}
+.fixclear{clear:both;}
+/* start catering  */
+.catering{background-image: url(../images/architect.jpg);height:800px;margin-top:0;padding-top:0;background-image-size:cover;}
+.catering span{color: white;background-color: black;opacity: 0.75;width:10px;height:10px;}
+.catering nav {background:white;margin: 20px;margin: auto;padding:20px;font-size:18px;width: 1600px;box-shadow: 2px 2px 1px #888888;position:fixed;top:0px;}
+.catering nav ul{text-decoration: none;display: inline;}
+.catering nav ul li{text-decoration: none;display: inline;padding-left:35px;letter-spacing: 5px}
+.catering nav ul .logo{padding-right:650px;padding-left: 0;}
+.catering h1{padding-top:490px; color:white;text-align: center;}
+/* end catering  */
+/* start project  */
+.projects{padding: 10px;margin: 20px;}
+.projects .Summer{position: relative;}
+.projects .Summer .summerd {position: absolute; background-color:black;color: white;width:150px;height:40px;text-align: center;}
+.projects  >div{float:left;width:25%;}
+.projects img{width:92%;}
+/* end project  */
+/* start about  */
+.about{}
+.about .team1,.about .team2,.about .team3,.about .team4{float: left; width:25%;}
+.about img{width:90%}
+.about .pp{width:300px;height:30px;background: #f1f1f1;text-align: center;}
+/* end about  */
+/* start contact  */
+.contact h1 {padding-top:  30px 0;}
+.contact form input{display: block;width:1200px;height:50px;border-top:none;border: none;border-bottom: 1px solid #ccc;margin:10px 0;}
+.contact form .send{width:150px;margin-top: 20px;border:none;background:black;color: white;}
+/* end contact  */
+
+
+/* frame wok  */
+p{line-height: 1.7;font-family: sans-serif;padding: 10px;}
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {font-family: "Playfair Display";letter-spacing: 5px;}
+hr{color:#DDD;}
+/* frame wok  */
